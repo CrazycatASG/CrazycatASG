@@ -4,7 +4,7 @@ I'm a random person on the internet who you don't know. Intresting, right?
 
 - 🌱 I’m currently learning Python, Go, Javascript, and Rust. 
 - 📫 How to reach me: You can contact me through my public email (linked below my pfp) or [my alt email](mailto:realitywarper14@gmail.com) but i don't check that often so be aware of that.
-- 😄 Pronouns: Refer to [here](https://twitter.com/confusername_). (but i'm a he/him in case you were wondering)
+- 😄 Pronouns: why refer to someone you won't talk to? (he/him)
 - ⚡ Fun fact: I'm autistic. I also have tourettes.
 
 

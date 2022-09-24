@@ -2,9 +2,9 @@
 ### I'm CrazycatASG but you can just call me Ender
 I'm a random person on the internet who you don't know. Intresting, right?
 
-- 🌱 I’m currently learning Python, Go, Javascript, and Rust. 
+- 🌱 I’m currently learning Python and Go. 
 - 📫 How to reach me: You can contact me through my public email (linked below my pfp) or [my alt email](mailto:realitywarper14@gmail.com) but i don't check that often so be aware of that.
-- 😄 Pronouns: i'm a he/him but you won't be referring to me anyway
+- 😄 Pronouns: he/him (do i need to tho?)
 - ⚡ Fun fact: I'm autistic. I also have tourettes.
 
 

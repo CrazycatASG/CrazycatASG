@@ -7,6 +7,8 @@ I'm a random person on the internet who you don't know. Intresting, right?
 - 😄 Pronouns: he/him (do i need to tho?)
 - ⚡ Fun fact: I'm autistic. I also have tourettes.
 
+# KEEP IN MIND
+I lost access to my old account due to a problem with 2FA. My old account is now called @CrazycatASG-zz so please be aware of that
 
 ### Alright then, see ya. - The end screen of every serious program i've made so far (which got nuked)
 

@@ -1,5 +1,4 @@
 ![Hello there](https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
-### I'm CrazycatASG but you can just call me Ender
+### You probably know me by the name Hailfire, but I also go by Crazycat.
 
-- 🌱 I’m currently learning Python and Go. 
-
+- 🌱 I’m currently learning Java (the agony) and Go. 
